@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mSKsDgZOfQBX970nOc4kGSWDYhnJHiQ8Mk7VABEpY25M3aofM2JM34ADskIu0VJPIIg1ao3fPj2dIVCTtydRGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deleo\\source\\repos\\Unidad1PanaderiaWPF\\Unidad1PanaderiaWPF\\Unidad1PanaderiaWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deleo\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
